@@ -1,0 +1,1 @@
+I have refined and renamed the WebPage I am currently building while progressing through Level 1 of my Full Stack Developer Diploma. I have tidied up and better organised my CSS Stylesheet as it was messy. I have added a background image on each page as well as an image with some text and a button overlay as well as adding a navigation bar.
